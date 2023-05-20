@@ -25,5 +25,5 @@ https://github.com/Proxyabel/evilginx.botguard
 ## 🚀 Getting Started: 
 Instructions for installing and getting started with the Evilginx3 project can be found here.
 
-## 👥 Contributing: 
-Information on how others can contribute to the project can be found here. Contact @anthraxlinkers on Telegram for more information.
+## 👥 How to get it??: 
+Contact @anthraxlinkers on Telegram for more information.
